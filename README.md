@@ -35,8 +35,8 @@ Considerando que o seu ambinete SDK já esteja preparado.
 
 1. Clonar: `git https://github.com/pssilva/javafx-acme-corp.git`;
 2. Acessar: `cd javafx-acme-corp`;
-2. Definir Path: `export GO_PATH=$(pwd)`;
-3. [TRABALHO EM PROGRESSO]
+3. Buld Package: `mvn package `;
+4. Executar a aplicação: `java -jar target/javafx-acme-corp-0.0.1-SNAPSHOT.jar`;
 
 ### Temas 
 O projeto será adaptado para os seguintes temas (themes):
