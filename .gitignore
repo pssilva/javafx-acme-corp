@@ -26,3 +26,16 @@ hs_err_pid*
 .project
 *.DS_Store*
 
+.settings/*
+target/*
+
+
+.gradle/*
+build.gradle*
+gradle/*
+gradlew
+gradlew.bat
+
+
+build.fxbuild
+
